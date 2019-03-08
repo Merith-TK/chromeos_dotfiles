@@ -1,0 +1,9 @@
+#Crouton Aliases
+alias term='sudo enter-chroot'
+alias startx='sudo startxfce4'
+alias xterm='sudo startxiwi -b xterm'
+
+#Editing Alias
+alias vi=vim
+alias edit=vim
+export EDITOR=vim
